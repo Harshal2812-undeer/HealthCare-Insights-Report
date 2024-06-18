@@ -1,7 +1,7 @@
 # HealthCare-Insights-Report
 Data Analysis Project in health care domain
 
-The Health Insights Dashboard is a comprehensive data analysis and visualization project that aims to provide valuable insights into healthcare data. This project utilizes Python and popular data analysis libraries such as Pandas and Matplotlib to clean, transform, and visualize a healthcare dataset.
+The Health Insights Report is a comprehensive data analysis and visualization project that aims to provide valuable insights into healthcare data. This project utilizes Python and popular data analysis libraries such as Pandas and Matplotlib to clean, transform, and visualize a healthcare dataset.
 
 ## Project Overview
 
