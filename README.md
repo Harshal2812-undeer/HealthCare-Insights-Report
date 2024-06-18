@@ -10,7 +10,7 @@ The main objective of this project is to extract meaningful insights from health
 ## Visualizations
 
 #### Blood Type vs Medical Condition
-![Blood Type vs Medical Condition](Blood Type vs Medical Condition.png)
+![Blood Type vs Medical Condition]([Blood Type vs Medical Condition.png](https://github.com/Harshal2812-undeer/HealthCare-Insights-Report/blob/main/Blood%20Type%20vs%20Medical%20Condition.png))
 
 #### Composition of Medical Conditions among Patients
 ![Composition of Medical Conditions](Composition of Medical Conditions.png)
