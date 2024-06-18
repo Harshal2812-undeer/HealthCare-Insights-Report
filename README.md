@@ -7,6 +7,17 @@ The Health Insights Report is a comprehensive data analysis and visualization pr
 
 The main objective of this project is to extract meaningful insights from healthcare data by performing various data analysis tasks and creating informative visualizations. The project covers a wide range of data exploration, cleaning, and transformation techniques, as well as the creation of different types of visualizations, including relationship visualizations, comparison visualizations, distribution visualizations, and composition visualizations.
 
+## Visualizations
+
+#### Blood Type vs Medical Condition
+![Blood Type vs Medical Condition](Blood Type vs Medical Condition.png)
+
+#### Composition of Medical Conditions among Patients
+![Composition of Medical Conditions](Composition of Medical Conditions.png)
+
+#### Number of Admissions vs Medical Condition
+![Number of Admissions vs Medical Condition](Number of Admissions vs Medical Condition.png)
+
 Key features of the project include:
 
 1. **Data Cleaning and Preprocessing**: The project demonstrates various techniques for cleaning and preprocessing the healthcare dataset, such as handling missing values, converting data types, creating new columns, and removing duplicates.
